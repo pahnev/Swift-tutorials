@@ -1,2 +1,2 @@
 # Swift-tutorials
-Collection of Objective-C tutorial projects done
+Collection of Swift tutorial projects done
